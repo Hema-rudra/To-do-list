@@ -1,5 +1,5 @@
 Name:RUDRA HEMA
-Comoany:CODTECH IT SOLUTIONS
+Company:CODTECH IT SOLUTIONS
 ID:CT08DS1390
 Domain:web development
 Duration:1st JUNE 2024 to 30Th JUNE 2024
